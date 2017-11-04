@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Profile_Kotlin</string>
+    <string name="user_name">Name</string>
+    <string name="user_age">Age</string>
+    <string name="profile">Profile</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_submit">Submit</string>
+    <string name="image_myPhoto">My_Photo</string>
 </resources>
